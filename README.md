@@ -3,10 +3,10 @@
 
 # Build
 ```
-    git clone https://github.com/PlatONEnetwork/client-sdk-java.git
-    cd client-sdk-java/
-    ./gradlew clean jar            //Generate jar package
-	./gradlew clean distZip        //Generate code generation skeleton tool
+git clone https://github.com/PlatONEnetwork/client-sdk-java.git
+cd client-sdk-java/
+./gradlew clean jar            //Generate jar package
+./gradlew clean distZip        //Generate code generation skeleton tool
    
 ``` 
 
